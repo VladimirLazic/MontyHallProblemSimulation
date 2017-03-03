@@ -64,10 +64,6 @@ int main() {
     cout<<endl;
 
     cout<<"Probability ratio : "<< 100*probabilityRatio<<"%"<<endl;
-
-
-
-
-
+    
     return 0;
 }
